@@ -1,5 +1,5 @@
 CFLAGS=-Wall -g
-CC=/usr/bin/gcc
+CC=gcc
 BIN_FILE=tictactoe.o
 DSYM_DIR=tictactoe.dSYM
 
